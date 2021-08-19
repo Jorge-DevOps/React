@@ -1,0 +1,23 @@
+.main-banner{
+    width: 100%;
+    height: 50vh;
+    background-image: url(https://impormedical.com.co/images/categorias/MOVILIDAD2-1920X580.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.main-title{
+    padding: 3rem 15rem;
+    margin: 0;
+    font-size: 3rem;
+    color: white;
+}
+.main-title span{
+    color: yellow;
+}
+.main-button{
+    background-color: #0070E0;
+    color: white;
+    padding: 1rem;
+    margin-left: 15rem;    
+}

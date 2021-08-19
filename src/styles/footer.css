@@ -1,0 +1,16 @@
+.container-footer {
+  background-color: #212121;
+}
+.footer-article {
+  display: flex;
+  justify-content: space-evenly;
+  padding: 3rem 0;
+}
+.article-list {
+  padding: 0;
+  margin: 0;
+}
+.article-list__title {
+}
+.article-list__item {
+}

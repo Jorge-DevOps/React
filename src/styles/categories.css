@@ -1,0 +1,21 @@
+.categories-list {
+    display: flex;
+    list-style: none;
+    justify-content: space-evenly;
+}
+.categories-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 1rem;
+
+}
+.categories-item__img {
+    height: 15rem;
+    width: 18rem;
+    object-fit: cover;
+    border-radius: 12px;
+}
+.categories-item__title{
+    font-size: 1.2rem;
+}
